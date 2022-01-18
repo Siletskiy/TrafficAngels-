@@ -1,0 +1,87 @@
+{
+"comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
+"comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
+
+    "method":"aps_atr",
+  
+   
+ "s":"______________________________________________________________________________________________________________________________________",   
+  
+"comment_2_0":"нужно определить ключ разшифровки(encode_key) в Administation param " ,    
+"comment2":"для включения  добавить 'method':'full_source_refer_data' " ,
+"comment3":"Далле нужно добавить ключ который прийдет из нейминга компании fb, google или tik-tok",
+"comment4":"Пример нейминга key4|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment5":"Ключ key4",
+
+"f4Frhs":"https:/nashdomain.club/f4Frhs?",
+"yXThk45R":"https:/nashdomain.club/yXThk45R?",
+"2986CP":"https:/nashdomain.club/2986CP?",
+"kdq22W":"https:/nashdomain.club/kdq22W?",
+"NZbPZw":"https:/nashdomain.club/NZbPZw?",
+"zBsYxHjc":"https:/nashdomain.club/zBsYxHjc?",
+"kq7KVjTm":"https:/nashdomain.club/kq7KVjTm?",
+"S9sC7h":"https:/nashdomain.club/S9sC7h?",
+"D22zTyMH":"https:/nashdomain.club/D22zTyMH?",
+"BxdRBp":"https:/nashdomain.club/BxdRBp?",
+"Zx87nbsc":"https:/nashdomain.club/Zx87nbsc?",
+"6tC44J":"https:/nashdomain.club/6tC44J?",
+"DjV43vMW":"https:/nashdomain.club/DjV43vMW?",
+"CJVrWc69":"https:/nashdomain.club/CJVrWc69?",
+   
+   
+   
+
+
+ 
+"comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
+"comment7":"также можна оставить включенной только органику 'method':'organic'   ",
+  
+   "usecontry":"ua,kz,by,au,nz,at,uz,br,cl,pe",
+   "ua":"https:/nashdomain.club/organic?",
+   "kz":"https:/nashdomain.club/organic?",
+   "by":"https:/nashdomain.club/organic?",
+   "au":"https:/nashdomain.club/organic?",
+   "nz":"https:/nashdomain.club/organic?",
+   "at":"https:/nashdomain.club/organic?",
+   "uz":"https:/nashdomain.club/organic?",
+   "br":"https:/nashdomain.club/organic?",
+   "cl":"https:/nashdomain.club/organic?",
+   "pe":"https:/nashdomain.club/organic?",
+
+   
+
+
+
+ "s2":"______________________________________________________________________________________________________________________________________", 
+
+
+
+
+
+  
+"comment_2_1":"Включения обычной атрибуции без расшифровок и все прочего (как было раньше) ( aps_atr ) можно (aps_atr,organic) " ,  
+"comment_003":"деколируем json 'method':'fb_reffer' можна и 'method':'fb_reffer,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться найминг кампании от fb ",  
+"comm0005":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment0006":"Ключ key", 
+  
+  
+ 
+  
+   
+   
+"comment8":"Вариант на случай апокалипсиса  'method':'planB'  (Весь трафик пойдет на URl)",
+"comment9":"*нужно использовать только один атрибут 'planB' ",
+"comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
+
+ "url":"https:/nashdomain.club/organic?",   
+   
+   
+   
+   
+"comment11":"Administation param",
+   "apsfly_id":"NqeTip8Sd6UFZ8UmoXGFFd",
+   "one_signal_id":"54c3ee81-24cf-4eed-a6ae-2acde2fa6f88",
+   "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
+    
+}
