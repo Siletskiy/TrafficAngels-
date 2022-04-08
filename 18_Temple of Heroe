@@ -27,8 +27,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br",
-   "au":"https://apmedia.digital/aviator",
+ "usecontry":"br",
    "br":"https://apmedia.digital/aviator",
 
    
