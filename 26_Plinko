@@ -1,5 +1,4 @@
-ines (39 sloc)  4.24 KB
-   
+ 
 {
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
