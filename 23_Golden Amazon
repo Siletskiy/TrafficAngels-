@@ -16,8 +16,9 @@
 
 "f4Frhs":"https://tr.appsunit.site/N9JKbHF8?",
 "ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
-"aviator":"https://apmedia.digital/appsunit?",
-   
+"aviator":"https://apmedia.digital/GoldenAviator?",
+"advpnk":"https://apmedia.digital/GoldenAviator?",
+
  
  "s000":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
    
@@ -27,10 +28,17 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at",
    "br":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+    "tr":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+   "pe":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+   "cl":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+   "au":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+   "de":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+   "at":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
