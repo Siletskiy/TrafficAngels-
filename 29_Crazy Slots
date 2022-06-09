@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -15,8 +15,9 @@
 "comment5":"Ключ key4",
 
 "f4Frhs":"https://tr.appsunit.site/N9JKbHF8?",
-"ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
-"XNYMGgrc":"https://keitaro.lagoonmb.site/XNYMGgrc?", 
+"ptS2jh":"https://tr.appsunit.site/ptS2jh?",
+"win":"https://keitaro.lagoonmb.site/ptS2jh?",
+"simpleos":"https://tr.appsunit.site/ptS2jh?",
 
    
  
@@ -28,9 +29,12 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+ "usecontry":"nz,kz,in,br,uz",
+  "nz":"https://tr.appsunit.site/ptS2jh?",
+  "kz":"https://tr.appsunit.site/ptS2jh?",
+  "in":"https://tr.appsunit.site/ptS2jh?",
+  "br":"https://tr.appsunit.site/ptS2jh?",
+   "uz":"https://tr.appsunit.site/ptS2jh?",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
