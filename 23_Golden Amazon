@@ -28,7 +28,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,jp",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,jp,in",
    "br":"https://apmedia.digital/AviatorGold?",
    "kz":"https://apmedia.digital/AviatorGold?",
    "pt":"https://apmedia.digital/AviatorGold?",
@@ -39,6 +39,7 @@
    "de":"https://apmedia.digital/AviatorGold?",
    "at":"https://apmedia.digital/AviatorGold?",
    "jp":"https://apmedia.digital/AviatorGold?",
+   "in":"https://apmedia.digital/AviatorGold?",
 
 
    
