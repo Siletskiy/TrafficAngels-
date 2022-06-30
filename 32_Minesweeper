@@ -29,12 +29,13 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,tr,pe,cl,mx",
+ "usecontry":"br,tr,pe,cl,mx,in",
    "br":"https://apmedia.digital/appsunitmines?",   
     "tr":"https://apmedia.digital/appsunitmines?",
    "pe":"https://apmedia.digital/appsunitmines?",
    "cl":"https://apmedia.digital/appsunitmines?",
    "mx":"https://apmedia.digital/appsunitmines?",
+   "in":"https://apmedia.digital/appsunitmines?",
 
 
    
