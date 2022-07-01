@@ -28,7 +28,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,jp,us",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,jp",
    "br":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/appsunit?ad_campaign_id=organic&",
