@@ -31,19 +31,20 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"nz,kz,in,br,au,ca,de,uz,gr,ua", 
+ "usecontry":"nz,kz,in,br,au,ca,de,uz,gr,ua,nz", 
   "kz":"https://leonsport.site/pjhZwWGf?",
   "br":"https://leonsport.site/pjhZwWGf?",
   "gr":"https://leonsport.site/pjhZwWGf?",
   
   "nz":"https://tr.appsunit.site/ptS2jh?",
   "in":"https://tr.appsunit.site/ptS2jh?",
-  "au":"https://tr.appsunit.site/ptS2jh?",
   "ca":"https://tr.appsunit.site/ptS2jh?",
   "de":"https://tr.appsunit.site/ptS2jh?",
   "uz":"https://tr.appsunit.site/ptS2jh?",
   
   "ua":"https://ommstudia.com/KpjGhmtz?ad_campaign_id=organic&",
+   "au":"https://ommstudia.com/KpjGhmtz?ad_campaign_id=organic&",
+   "nz":"https://ommstudia.com/KpjGhmtz?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
