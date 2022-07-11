@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -61,8 +61,10 @@
    
    
 "comment11":"Administation param",
-   "apsfly_id":"xbYr5kMnzWJrXbgNx43gri",
-   "one_signal_id":"ab5c3904-ca6a-4ccc-99fd-ecb5bd07e9d4",
+   "apsfly_id":"WZk8JtxwNdY8Mw4VdXjTgR",
+   "one_signal_id":"ef83d7cc-82a5-49c1-9d9f-27b498e1bc4c",
    "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
  
 }
+
+ 
