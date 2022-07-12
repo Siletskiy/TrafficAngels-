@@ -29,10 +29,16 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at",
+   "br":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "kz":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "pt":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "tr":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "pe":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "cl":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "au":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "de":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "at":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
