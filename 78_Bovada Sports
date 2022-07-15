@@ -1,0 +1,69 @@
+{
+"comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
+"comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
+"comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
+
+    "method":"aps_atr",
+  
+   
+ "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
+  
+"comment_2_0":"нужно определить ключ разшифровки(encode_key) в Administation param " ,    
+"comment2":"для включения  добавить 'method':'full_source_refer_data' " ,
+"comment3":"Далле нужно добавить ключ который прийдет из нейминга компании fb, google или tik-tok",
+"comment4":"Пример нейминга key4|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment5":"Ключ key4",
+
+"f4Frhs":"https://tr.appsunit.site/N9JKbHF8?",
+"ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
+"XNYMGgrc":"https://keitaro.lagoonmb.site/XNYMGgrc?", 
+
+   
+ 
+ "s000":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
+   
+
+ "s01":"______ORGANIC____________ORGANIC_____________ORGANIC_________ORGANIC________________ORGANIC______________ORGANIC_______________ORGANIC_________________",  
+ 
+"comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
+"comment7":"также можна оставить включенной только органику 'method':'organic'   ",
+  
+ "usecontry":"au,br",
+   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+
+   
+"s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
+
+
+ "s2":"_______aps_atr_____________aps_atr____________aps_atr______________aps_atr______________aps_atr___________aps_atr________aps_atr___________aps_atr____________", 
+ 
+  
+"comment_2_1":"Включения обычной атрибуции без расшифровок и все прочего (как было раньше) ( aps_atr ) можно (aps_atr,organic) " ,  
+"comment_003":"деколируем json 'method':'fb_reffer' можна и 'method':'fb_reffer,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться найминг кампании от fb ",  
+"comm0005":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment0006":"Ключ key", 
+  
+"s02":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",    
+ 
+  
+ "s3":"_______planB_____________planB____________planB______________planB______________planB___________planB________planB___________planB____________", 
+   
+"comment8":"Вариант на случай апокалипсиса  'method':'planB'  (Весь трафик пойдет на URl)",
+"comment9":"*нужно использовать только один атрибут 'planB' ",
+"comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
+
+ "url":"https:/nashdomain.club/organic?",   
+   
+   
+ "s03":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",      
+ 
+   
+"comment11":"Administation param",
+   "apsfly_id":"Vx9CjjmyLTdtHWgv4kUQ5W",
+   "one_signal_id":"72443a5f-dd01-4266-9d06-b0175b0b8402",
+   "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
+ 
+}
+ 
