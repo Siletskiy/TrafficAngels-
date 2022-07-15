@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt,tr,pe,cl,au,de,at",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,cz",
    "br":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
@@ -40,6 +40,7 @@
    "au":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
    "de":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
    "at":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
+   "cz":"https://apmedia.digital/LuckyJetX?ad_campaign_id=organic&",
  
 
    
