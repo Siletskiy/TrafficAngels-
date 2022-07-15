@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt,tr,pe,cl,au,de,at",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,az,uz,fr",
    "br":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
@@ -39,6 +39,9 @@
    "au":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    "de":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    "at":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "az":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "uz":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
+   "fr":"https://apmedia.digital/AviatorX?ad_campaign_id=organic&",
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
