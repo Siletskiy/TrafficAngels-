@@ -29,9 +29,10 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,in",
+ "usecontry":"au,in,nz",
    "au":"https://firecipe.pro/FdNkjmf9?ad_campaign_id=organic&",
    "in":"https://firecipe.pro/FdNkjmf9?ad_campaign_id=organic&",
+   "nz":"https://firecipe.pro/FdNkjmf9?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
