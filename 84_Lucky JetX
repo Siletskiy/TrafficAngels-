@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -17,6 +17,7 @@
 "f4Frhs":"https://tr.appsunit.site/N9JKbHF8?",
 "ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
 "XNYMGgrc":"https://apmedia.digital/TgrstC?", 
+"advpnk":"https://apmedia.digital/84jetx?", 
 
    
  
@@ -28,9 +29,25 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl",
+   "br":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "kz":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "pt":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "tr":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "az":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "uz":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "ru":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "au":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "de":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "cl":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "pe":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "at":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "ch":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "pl":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "nz":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+   "cz":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",   
+   "nl":"https://apmedia.digital/84jetx?ad_campaign_id=organic&",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
