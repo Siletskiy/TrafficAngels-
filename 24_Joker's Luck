@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"nz,kz,in,br,gr",
+ "usecontry":"nz,kz,in,br,gr,ru",
   "nz":"https://leonsport.site/XM52sRKZ?",
   "kz":"https://leonsport.site/XM52sRKZ?",
   "in":"https://leonsport.site/XM52sRKZ?",
@@ -38,6 +38,8 @@
   "ua":"https://leonsport.site/XM52sRKZ?",
   "uz":"https://leonsport.site/XM52sRKZ?",
   "kz":"https://leonsport.site/XM52sRKZ?",
+  "ru":"https://leonsport.site/XM52sRKZ?",
+  
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
