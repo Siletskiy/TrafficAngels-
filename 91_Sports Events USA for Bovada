@@ -29,24 +29,9 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl",
-   "br":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "kz":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "pt":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "tr":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "az":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "uz":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "ru":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "au":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "de":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "cl":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "pe":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "at":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "ch":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "pl":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "nz":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
-   "cz":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",   
-   "nl":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
+"usecontry":"us",
+   "us":"https://apmedia.digital/SportEventsBovada?ad_campaign_id=organic&",
+
 
 
    
