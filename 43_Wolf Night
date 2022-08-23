@@ -28,11 +28,12 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,kz,ru",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+ "usecontry":"au,br,kz,ru,pt",
+   "au":"https://leonsport.site/BHpn2yL2?ad_campaign_id=organic&",
+   "br":"https://leonsport.site/BHpn2yL2?ad_campaign_id=organic&",
 "kz":"https://leonsport.site/BHpn2yL2?ad_campaign_id=organic&",
 "ru":"https://leonsport.site/BHpn2yL2?ad_campaign_id=organic&",
+"pt":"https://leonsport.site/BHpn2yL2?ad_campaign_id=organic&",
 
 
 
