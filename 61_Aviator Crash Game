@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,az,uz,fr,cz,nz",
+ "usecontry":"br,kz,pt,tr,pe,cl,au,de,at,az,uz,fr,cz,nz,ru",
    "br":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
@@ -44,6 +44,7 @@
    "fr":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
    "cz":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
    "nz":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
+   "ru":"https://apmedia.digital/QjxYk4ss?ad_campaign_id=organic&",
 
 
    
