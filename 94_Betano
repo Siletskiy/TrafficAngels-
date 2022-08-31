@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,us",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,us,ro",
    "br":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",
    "kz":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",
    "pt":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",
@@ -48,6 +48,8 @@
    "cz":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",   
    "nl":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",
    "us":"https://admediadgt.com/betanous?ad_campaign_id=organic&",
+    "ro":"https://apmedia.digital/094Betano?ad_campaign_id=organic&",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
