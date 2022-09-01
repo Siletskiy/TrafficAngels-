@@ -29,8 +29,9 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"us",
+"usecontry":"us,br",
    "us":"https://admediadgt.com/SportEventsBovada?ad_campaign_id=organic&",
+   "br":"https://admediadgt.com/SportEventsBovada?ad_campaign_id=organic&",
 
 
 
