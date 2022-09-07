@@ -29,10 +29,28 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,ru",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-      "ru":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+ 
+      
+      
+ "usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro",
+   "br":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "kz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "pt":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "tr":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "az":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "uz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "ru":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "au":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "de":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "cl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "pe":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "at":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "ch":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "pl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "nz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+   "cz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",   
+   "nl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+    "ro":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
