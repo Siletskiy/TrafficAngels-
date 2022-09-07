@@ -29,9 +29,10 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br",
+ "usecontry":"au,br,ru",
    "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
    "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
+      "ru":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
