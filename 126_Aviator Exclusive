@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -33,25 +33,8 @@
  
       
       
- "usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,ua",
-   "br":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "kz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "pt":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "tr":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "az":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "uz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "ru":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "au":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "de":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "cl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "pe":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "at":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "ch":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "pl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "nz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-   "cz":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",   
-   "nl":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
-    "ro":"https://aviatorplay.live/appsunit?ad_campaign_id=organic&",
+ "usecontry":"ua",
+ 
     "ua":"https://pin-up.ua/qewq?",
 
    
