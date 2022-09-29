@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"",
+    "method":"aps_atr,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -18,6 +18,7 @@
 "ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
 "XNYMGgrc":"https://keitaro.lagoonmb.site/XNYMGgrc?", 
 "mad":"https://tdskt.com/CTt2QC?", 
+"advpnk":"https://mediastp.com/aviatorpilot?", 
 
    
  
@@ -29,8 +30,32 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"ua",
- "ua":"https://pin-up.ua/",
+ "usecontry":"BR,KZ,PT,TR,AZ,UZ,RU,AU,DE,CL,PE,AT,CH,PL,NZ,CZ,NL,RO,MX,AG,BG,FI,IE,BEL",
+    "br":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "kz":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "pt":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "tr":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "az":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "uz":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "ru":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "au":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "de":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "cl":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "pe":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "at":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "ch":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "pl":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "nz":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "cz":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",   
+   "nl":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "ro":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "mx":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "ag":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "bg":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "fi":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+   "ie":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",   
+   "bel":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
+
  
 
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
