@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"BR,KZ,PT,TR,AZ,UZ,RU,AU,DE,CL,PE,AT,CH,PL,NZ,CZ,NL,RO,MX,AG,BG,FI,IE,BE",
+"usecontry":"BR,KZ,PT,TR,AZ,UZ,RU,AU,DE,CL,PE,AT,CH,PL,NZ,CZ,NL,RO,MX,AG,BG,FI,IE,BEL",
     "br":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
    "kz":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
    "pt":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
@@ -53,7 +53,7 @@
    "bg":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
    "fi":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
    "ie":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",   
-   "be":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
+   "bel":"https://mediastp.com/wunderinogame?ad_campaign_id=organic&",
 
 
    
