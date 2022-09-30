@@ -30,7 +30,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"UA,BR,KZ,PT,TR,AZ,UZ,RU,AU,DE,CL,PE,AT,CH,PL,NZ,CZ,NL,RO,MX,AG,BG,FI,IE,BEL",
+ "usecontry":"ua,BR,KZ,PT,TR,AZ,UZ,RU,AU,DE,CL,PE,AT,CH,PL,NZ,CZ,NL,RO,MX,AG,BG,FI,IE,BEL",
    "br":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
    "kz":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
    "pt":"https://mediastp.com/aviatorpilot?ad_campaign_id=organic&",
