@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa,us",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa,us,ca,gr,hu,se,fl",
     "br":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
    "kz":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
    "pt":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
@@ -56,6 +56,12 @@
    "be":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
    "sa":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
    "us":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+   "ca":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+    "gr":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+     "hu":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+     "se":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+     "fl":"https://mediastp.com/betwayonline?ad_campaign_id=organic&",
+ 
 
 
    
