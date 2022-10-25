@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":" ",
+    "method":"organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -18,6 +18,7 @@
 "ptS2jh":"https://tr.appsunit.site/ptS2jh?", 
 "XNYMGgrc":"https://keitaro.lagoonmb.site/XNYMGgrc?", 
 "mad":"https://tdskt.com/CTt2QC?", 
+"advpnk":"https://mediastp.com/aviatormobile?", 
 
    
  
@@ -29,14 +30,33 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,sa,za,mx,pk,ua",
-   "au":"https://tdskt.com/CTt2QC?",
-   "br":"https://tdskt.com/CTt2QC?",
-    "sa":"https://tdskt.com/CTt2QC?",
-    "za":"https://tdskt.com/CTt2QC?",
-     "mx":"https://tdskt.com/Bf2DSZ?",
-    "pk":"https://tdskt.com/DxfdTY?",
-     "ua":"https://pin-up.ua/?",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa",
+    "br":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "kz":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "pt":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "tr":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "az":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "uz":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "ru":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "au":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "de":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "cl":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "pe":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "at":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "ch":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "pl":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "nz":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "cz":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",   
+   "nl":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "ro":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "mx":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "ag":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "bg":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "fi":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "ie":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",   
+   "be":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+   "sa":"https://mediastp.com/aviatormobile?ad_campaign_id=organic&",
+
 
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
