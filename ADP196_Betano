@@ -4,7 +4,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"aps_atr,organic",
+    "method":"",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -29,10 +29,8 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,br,ua",
-   "au":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "br":"https://tr.appsunit.site/ptS2jh?ad_campaign_id=organic&",
-   "ua":"https://pin-up.ua/",
+ "usecontry":"",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
