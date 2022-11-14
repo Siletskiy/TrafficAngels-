@@ -29,7 +29,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"au,at,az,ar,bd,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa",
+"usecontry":"au,at,az,ar,bd,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa,ua",
 "au":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
 "at":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
 "az":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
@@ -67,6 +67,7 @@
 "se":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
 "ee":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
 "sa":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
+"ua":"https://mediastp.com/betanoesportes?ad_campaign_id=organic",
 
 
 
