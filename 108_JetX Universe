@@ -30,7 +30,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa,ca,it,th,bd,no",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa,ca,it,th,bd,no,ua",
     "br":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
    "kz":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
    "pt":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
@@ -61,7 +61,7 @@
    "th":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
    "bd":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
    "no":"https://mediastp.com/jetxuniverse?ad_campaign_id=organic",
-
+"ua":"https://pin-up.ua/?bn=we&afid=322332",
 
 
 
