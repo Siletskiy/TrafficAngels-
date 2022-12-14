@@ -28,7 +28,10 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"",
+ "usecontry":"br,ru",
+"br":"https://brandnewstore.online/S3THJ8ZB?ad_campaign_id=organic",
+"ru":"https://brandnewstore.online/S3THJ8ZB?ad_campaign_id=organic",
+
 
 
    
