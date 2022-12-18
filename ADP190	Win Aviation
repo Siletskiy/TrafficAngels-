@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":" ",
+    "method":"organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -28,10 +28,10 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,ru,ua",
-"br":"https://brandnewstore.online/S3THJ8ZB?ad_campaign_id=organic",
-"ru":"https://brandnewstore.online/S3THJ8ZB?ad_campaign_id=organic",
-"ua":"https://tr.appsunit.site/cdtVSQ?ad_campaign_id=naming",
+ "usecontry":"br,ru",
+"br":"https://tech1.space/S3THJ8ZB?ad_campaign_id=organic",
+"ru":"https://tech1.space/S3THJ8ZB?ad_campaign_id=organic",
+
 
 
 
