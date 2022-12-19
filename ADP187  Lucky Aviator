@@ -29,13 +29,13 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"br,ru,kz,uz,az",
+"usecontry":"br,ru,kz,uz,az,ua",
 "br":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
 "ru":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
 "kz":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
 "uz":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
 "az":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
-
+"ua":"https://tech1.space/XsnrCTd2?ad_campaign_id=organic",
 
 
   
