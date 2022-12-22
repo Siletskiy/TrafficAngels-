@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":"",
+    "method":"organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -28,7 +28,12 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"",
+"usecontry":"ca,pl,de,au",
+"ca":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"pl":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"de":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"au":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
@@ -59,8 +64,8 @@
  
    
 "comment11":"Administation param",
-   "apsfly_id":"uKAnhLqyzSPgVkpeDfGVvH",
-   "one_signal_id":"6c1dadb7-208f-4fe0-8619-19d580e00d9e",
+   "apsfly_id":"AiMVZR3oXcAcaX9fy785dD",
+   "one_signal_id":"72c7a28a-a751-451c-9d59-4119cbfd233f",
    "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
  
 }
