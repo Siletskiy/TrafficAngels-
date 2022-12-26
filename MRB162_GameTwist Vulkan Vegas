@@ -28,11 +28,17 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"ca,pl,de,au",
+"usecontry":"ca,pl,de,au,ua,kz,br,lt,lv,hu",
 "ca":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
 "pl":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
 "de":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
 "au":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"ua":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"kz":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"br":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"lt":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"lv":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
+"hu":" https://firecipe.pro/6brS8bKP?ad_campaign_id=organic",
 
 
    
