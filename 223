@@ -29,39 +29,37 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"au,bd,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa,ua,af,dz,as,ad,ao,ai,aq,ag,ar,am,aw,at,az,bs,bb,by,be,bz,bj,bm,bt,bo,ba,bw,kh,cm,ca,cv,ky,cf,td,cl,cx,cc,co,km,ck,cr,hr,cu,cw,cy,cz,cd,dk,dj,dm,do,tl,ec,sv,gq,er,ee,et,fk,fo,fj,fi,fr,pf,ga,gm,ge,de,gh,gi,gr,gl,gd,gu,gt,gg,gn,gw,gy,ht,hn,hk,hu,is,in,id,ir,iq,ie,im,il,it,ci,jm,jp,je,jo,ke,ki,xk,kw,kg,la,lv,lb,ls,lr,ly,li,lt,mo,mk,mg,mw,my,mv,ml,mt,mh,mr,mu,yt,fm,md,mc,mn,me,ms,ma,mz,mm,na,nr,np,nl,an,nc,,nz,ni,ne,ng,nu,kp,mp,no,om,pk,pw,ps,pa,pg,py,pe,ph,pn,pt,pr,qa,cg,re,ro",
+"usecontry":"au,bd,by,bg,br,hu,es,kz,mx,pl,ru,ro,sk,si,tr,uz,ch,se,ee,sa,ua,af,dz,as,ad,ao,ai,aq,ag,ar,am,aw,at,az,bs,bb,be,bz,bj,bm,bt,bo,ba,bw,kh,cm,ca,cv,ky,cf,td,cl,cx,cc,co,km,ck,cr,hr,cu,cw,cy,cz,cd,dk,dj,dm,do,tl,ec,sv,gq,er,et,fk,fo,fj,fi,fr,pf,ga,gm,ge,de,gh,gi,gr,gl,gd,gu,gt,gg,gn,gw,gy,ht,hn,hk,hu,is,in,id,ir,iq,ie,im,il,it,ci,jm,jp,je,jo,ke,ki,xk,kw,kg,la,lv,lb,ls,lr,ly,li,lt,mo,mk,mg,mw,my,mv,ml,mt,mh,mr,mu,yt,fm,md,mc,mn,me,ms,ma,mz,mm,na,nr,np,nl,an,nc,,nz,ni,ne,ng,nu,kp,mp,no,om,pk,pw,ps,pa,pg,py,pe,ph,pn,pt,pr,qa,cg,re",
 "au":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
  
  
 "bd":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"by":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "bg":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "br":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "hu":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"de":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"gr":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
+ 
 "es":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"it":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "kz":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"ca":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"co":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
+ 
 "mx":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"ng":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"nl":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"nz":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"no":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"pe":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
+ 
+ 
 "pl":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"pt":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "ru":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "ro":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "sk":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "si":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "tr":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "uz":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"hr":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "cz":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"cl":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "ch":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "se":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "ee":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
@@ -109,7 +107,7 @@
 "cu":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "cw":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "cy":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"cz":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
 "cd":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "dk":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "dj":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
@@ -120,7 +118,6 @@
 "sv":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "gq":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "er":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"ee":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "et":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "fk":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "fo":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
@@ -222,7 +219,7 @@
 "qa":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "cg":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
 "re":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
-"ro":"https://mediastp.com/casonlinesl?ad_campaign_id=organic",
+ 
  
 
  
