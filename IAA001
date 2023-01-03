@@ -3,7 +3,7 @@
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 "comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
 
-    "method":" ",
+    "method":"full_source_refer_data,organic",
   
    
  "s":"___________full_source_refer_______________full_source_refer___________________full_source_refer_____________________full_source_refer__________________",   
@@ -33,11 +33,17 @@
  
       
       
- "usecontry":"ua,kz,ru",
- 
-    "ua":"https://parimatch.com/uk/",
-    "kz":"https://mediastp.com/slotmachines?",
-     "ru":"https://mediastp.com/slotmachines?",
+"usecontry":"au,ca,br,pl,cl,pe,ru,kz,ua",
+"au":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"ca":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"br":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"pl":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"cl":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"pe":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"ru":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"kz":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+"ua":"https://tr.appsunit.site/SBnLHd5m?ad_campaign_id=organic",
+
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
