@@ -29,8 +29,45 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"ua",
-"ua":"https://pin-up.ua/ua?",
+"usecontry":"au,at,az,ar,bd,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa",
+"au":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"at":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"az":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ar":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"bd":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"by":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"bg":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"br":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"hu":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"de":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"gr":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"es":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"it":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"kz":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ca":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"co":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"mx":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ng":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"nl":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"nz":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"no":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"pe":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"pl":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"pt":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ru":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ro":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"sk":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"si":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"tr":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"uz":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"hr":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"cz":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"cl":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ch":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"se":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"ee":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+"sa":"https://mediastp.com/betanmobile?ad_campaign_id=organic",
+
 
 
    
@@ -62,8 +99,8 @@
    
    
 "comment11":"Administation param",
-   "apsfly_id":"UeQWaQWUfTezbMbb2qsKTV",
-   "one_signal_id":"b86e8c37-a271-4a16-b46b-8e7fb2b7027f",
+   "apsfly_id":"cG6iEPjgGfvUACGuk6wJ5L",
+   "one_signal_id":"a05b708e-8e42-49ec-9598-310500a28bba",
    "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
  
 }
