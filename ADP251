@@ -28,10 +28,12 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":" ",
+ "usecontry":"br,pl,by",
    "au":"https://mediastp.com/adp251btnmbl?ad_campaign_id=organic&",
    "br":"https://mediastp.com/adp251btnmbl?ad_campaign_id=organic&",
    "ua":"https://pin-up.ua",
+   "pl":"https://mediastp.com/adp251btnmbl?ad_campaign_id=organic&",
+   "by":"https://mediastp.com/adp251btnmbl?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
