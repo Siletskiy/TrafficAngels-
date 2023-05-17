@@ -28,7 +28,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-"usecontry":"",
+"usecontry":"br,kz,pt,tr,az,uz,ru,au,de,cl,pe,at,ch,pl,nz,cz,nl,ro,mx,ag,bg,fi,ie,be,sa,us",
  "au":"https://mediastp.com/avibetan?ad_campaign_id=organic",
 "at":"https://mediastp.com/avibetan?ad_campaign_id=organic",
 "az":"https://mediastp.com/avibetan?ad_campaign_id=organic",
