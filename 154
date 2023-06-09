@@ -28,12 +28,21 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,nz,ca,ua",
+ 
+
+ "usecontry":"au,nz,ca,ua,de,au,at,jp,se,sz,no,nl",
    "au":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
    "nz":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
    "ca":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
-   "ua":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
-
+ "ua":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+ "de":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+ "au":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+  "at":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+  "jp":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+    "se":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+     "sz":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+   "no":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
+     "nl":"https://fasttraff.pro/sbVcphFw?ad_campaign_id=organic",
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
 
